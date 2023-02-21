@@ -71,7 +71,7 @@ if streamlit.button('add a fruit to the list'):
 #streamlit.write('The user entered ', add_my_fruit)
 
 streamlit.write('Thanks for adding','jackfruit')
-streamlit.write('The user entered ', jackfruit)
+#streamlit.write('The user entered ', jackfruit)
 streamlit.stop() 
 
 
